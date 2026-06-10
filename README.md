@@ -21,7 +21,7 @@ The two repositories sync frequently. Content changes in one are reflected in th
 
 **Important:** The `docs` repository accepts contributions to content files (`.md` files in `/content` and select `/data` sections like reusables only). Infrastructure files, workflows, and site-building code are not open for external modification.
 
-## New to contributing
+## New to contributing OfensiveSecurity 
 
 Here are some resources to help you get started with open source contributions:
 
